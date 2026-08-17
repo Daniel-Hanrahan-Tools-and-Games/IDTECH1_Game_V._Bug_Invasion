@@ -35,6 +35,8 @@ else if (Actor.FindClass("UniqueClassFromStandaloneGame"))
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion">Bug_Invasion ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/IDTECH1_Game_V._Bug_Invasion">Page Repository Page</a>
+
 <p>Info about unoriginal content/All other content—including the UZDoom engine, base game IWAD databases, 
 and any community textures or music tracks—remains the property of their 
 respective owners and is governed strictly by their own original licenses.
