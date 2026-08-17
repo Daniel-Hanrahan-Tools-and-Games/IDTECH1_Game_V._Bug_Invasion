@@ -25,6 +25,11 @@ else if (Actor.FindClass("UniqueClassFromStandaloneGame"))
     }
 }
 
+<h3>Both of these links take you to Bug_Invasion</h3>
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Bug_Invasion">Bug_Invasion Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion">Bug_Invasion ReadMe Page</a>
 
 CC BY-SA 4.0 and GNU GPL v3.0 Conditional Exceptions to use MPL 2.0 and CC BY-SA 4.0 or CC BY 4.0
 
