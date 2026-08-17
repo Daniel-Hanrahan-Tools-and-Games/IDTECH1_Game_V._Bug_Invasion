@@ -31,6 +31,13 @@ else if (Actor.FindClass("UniqueClassFromStandaloneGame"))
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Bug_Invasion">Bug_Invasion ReadMe Page</a>
 
+<p>Info about unoriginal content/All other content—including the UZDoom engine, base game IWAD databases, 
+and any community textures or music tracks—remains the property of their 
+respective owners and is governed strictly by their own original licenses.
+This game uses other games to run, like an add-on expansion and it is an add-on expansion for all IWADs/Standalone games made in IDTECH1 and all primary standard IWADs/Standalone games made in IDTECH1 work out of the box, For any un-original content this game only uses dictionary lookups on IWADS for that content.</p>
+
+This info only applies to only the original content:
+
 CC BY-SA 4.0 and GNU GPL v3.0 Conditional Exceptions to use MPL 2.0 and CC BY-SA 4.0 or CC BY 4.0
 
 If the following condition is met, the licensing rules for both content covered by GNU GPL v3.0 and content not covered by GNU GPL v3.0 are modified as described below:
