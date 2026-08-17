@@ -3,7 +3,7 @@ A crossover game with Bug_Invasion and any IDTECH1 Game that is an add-on expans
 
 <p>Copyright (C) 2026 Daniel Hanrahan Tools and Games SPDX-License-Identifier: GPL-3.0-or-later A copy of the GNU General Public License is included in the file COPYING; if not, see<https://www.gnu.org/licenses/>. Information just about the stuff in this software not covered by the GNU General Public License version 3: This work is licensed under Attribution-ShareAlike 4.0 International</p>
 
-This game uses other games to run, like an add-on expansion and it is an add-on expansion for all IWADs/Standalone games made in IDTECH1 and all primary standard IWADs/Standalone games made in IDTECH1 work out of the box, For any un-original content this game only uses dictionary lookups on IWADS for that content.
+This game uses other games to run, like an add-on expansion and it is an add-on expansion for all IWADs/Standalone games made in IDTECH1 and all primary standard IWADs/Standalone games made in IDTECH1 work out of the box, For any un-original content this game only uses dictionary lookups on IWADS for that content. This mod only works on UZDoom source port.
 
 Execute shell scripts must be enabled on your file manager and I have only tried the scripts with Linux Mint and this game on the AppImage.
 
