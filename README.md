@@ -5,7 +5,7 @@ A crossover game with Bug_Invasion and any IDTECH1 Game that is an add-on expans
 
 This game uses other games to run, like an add-on expansion and it is an add-on expansion for all IWADs/Standalone games made in IDTECH1 and all primary standard IWADs/Standalone games made in IDTECH1 work out of the box, For any un-original content this game only uses dictionary lookups on IWADS for that content.
 
-Execute shell scripts must be enabled on your file manager and I have only tried the scripts with Linux Mint.
+Execute shell scripts must be enabled on your file manager and I have only tried the scripts with Linux Mint and this game on the AppImage.
 
 Shell scripts must have the exact path to your IDTECH1_Game_V._Bug_Invasion folder and UZDoom AppImage and example paths are placed in shell scripts, you will need to replace the example path with the actual path, For example: /example/path/UZDoom or /example/path/IDTECH1_Game_V._Bug_Invasion/Name_Of_IWAD/Level.wad, the /example/path must be replaced with the actual path before /UZDoom or /IDTECH1_Game_V._Bug_Invasion/Name_Of_IWAD/Level.wad in those situations.
 
