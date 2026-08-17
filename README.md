@@ -11,6 +11,8 @@ When loading IWADS that have episodes go to the 1st episode to load IDTECH1_Game
 
 For adding support to this game for another IWAD/Standalone game, Add this to mod handler in zscript and you must change the Items and enemies in map to the IWAD equivelents, custom enemies and items do not apply here:
 
+<p>Look at page source to see this block of code in its full glory:</p>
+
 else if (Actor.FindClass("UniqueClassFromStandaloneGame"))
 {
     if (clsName == 'VanillaActorToReplace')
