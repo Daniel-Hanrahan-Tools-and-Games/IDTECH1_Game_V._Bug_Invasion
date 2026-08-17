@@ -1,5 +1,5 @@
 # IDTECH1_Game_V._Bug_Invasion
-A crossover game with Bug_Invasion and any IDTECH1 Game that is an add-on expansion of any IDTECH1 Game.
+A crossover game with Bug_Invasion and any IDTECH1 Game that is an add-on expansion of any IDTECH1 Game, to be clear yes its a doom mod.
 
 <p>Copyright (C) 2026 Daniel Hanrahan Tools and Games SPDX-License-Identifier: GPL-3.0-or-later A copy of the GNU General Public License is included in the file COPYING; if not, see<https://www.gnu.org/licenses/>. Information just about the stuff in this software not covered by the GNU General Public License version 3: This work is licensed under Attribution-ShareAlike 4.0 International</p>
 
